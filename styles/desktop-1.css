@@ -1,0 +1,664 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.desktop-1-JWj {
+  box-sizing: border-box;
+  padding: 3.8rem 11.4rem 9.1rem 13.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0c0b0b;
+}
+.desktop-1-JWj .auto-group-3btj-z2B {
+  margin: 0rem 0.2rem 8.2rem 2rem;
+  width: calc(100% - 2.2rem);
+  height: 11rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-3btj-z2B .auto-group-7q2v-R11 {
+  margin-right: 81.5rem;
+  width: 15.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-3btj-z2B .auto-group-7q2v-R11 .logo-for-krumble-2-2-Ldm {
+  width: 9rem;
+  height: 6.6rem;
+  position: relative;
+  left: 3.2rem;
+  top: 0;
+  cursor: pointer;
+  background-size: 100% 100.506%;
+  background-position: 0 -0.0167rem;
+  background-image: url('../assets/logo-for-krumble-2-2.png');
+}
+.desktop-1-JWj .auto-group-3btj-z2B .auto-group-7q2v-R11 .krumble-onF {
+  width: 15.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  cursor: pointer;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-JWj .auto-group-3btj-z2B .auto-group-7q2v-R11 .krumble-onF .krumble-onF-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-3btj-z2B .auto-group-7q2v-R11 .krumble-onF .krumble-onF-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-3btj-z2B .launching-soon-Qoy {
+  margin-top: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB {
+  margin: 0rem 0rem 11.1rem 3rem;
+  width: calc(100% - 3rem);
+  height: 46.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .purplecrumicon-1-cv3 {
+  margin-right: 11rem;
+  width: 46.7rem;
+  height: 46.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 {
+  margin: 3.9rem 0rem 3rem 0rem;
+  width: 58.8rem;
+  height: calc(100% - 6.9rem);
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym {
+  margin: 0rem 0rem 3.7rem 0.3rem;
+  width: 38.5rem;
+  height: 14.2rem;
+  position: relative;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym .krumble-xMd {
+  width: 27.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym .krumble-xMd .krumble-xMd-sub-0 {
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym .krumble-xMd .krumble-xMd-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym .introducing-krumble-jWo {
+  width: 38.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .an-augmented-reality-based-social-media-application-where-users-can-express-themselves-through-interacting-with-krumslets-dropthe-krums-ETZ {
+  margin-bottom: 3.2rem;
+  max-width: 58.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-ujvv-3vo {
+  margin: 0rem 40.5rem 0rem 0.3rem;
+  box-sizing: border-box;
+  padding: 0.7rem 2.2rem 0.6rem 2.9rem;
+  width: calc(100% - 40.8rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(244, 228, 228, 0.8000000119);
+  border-radius: 2.4rem;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-ujvv-3vo .join-now-9U3 {
+  margin-right: 0.8rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-ujvv-3vo .arrow-1-GHm {
+  width: 2.5rem;
+  height: 2.3rem;
+  color: #7c1e9f;
+  font-size:2rem ;
+  text-decoration-line: none;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .line-2-ZXm {
+  margin: 0rem 9.1rem 5.6rem 7.4rem;
+  width: calc(100% - 16.5rem);
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.3899999857);
+  flex-shrink: 0;
+}
+.desktop-1-JWj .about-Gh5 {
+  margin: 0rem 2.5rem 2rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .krumble-is-a-upcoming-social-mobile-application-that-allows-users-to-create-collect-and-comment-on-krums-digital-images-with-personalized-messages-superimposed-onto-the-real-world-new-culture-yrP {
+  margin: 0rem 1.7rem 9.7rem 0rem;
+  max-width: 59.7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-JWj .line-1-Avs {
+  margin: 0rem 9.1rem 9.4rem 7.4rem;
+  width: calc(100% - 16.5rem);
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.3899999857);
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT {
+  margin: 0rem 4.9rem 1rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 {
+  margin: 0.9rem 21.2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding-top: 1.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .logo-for-krumble-2-1-voZ {
+  width: 11.7rem;
+  height: 8.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .krumble-G6j {
+  margin-bottom: 1.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .krumble-G6j .krumble-G6j-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .krumble-G6j .krumble-G6j-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-ar1t-mxb {
+  margin-right: 12.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-ar1t-mxb .community-Xgs {
+  margin-bottom: 4.2rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-ar1t-mxb .about-us-EbH {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6700000167);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-4na1-yHy {
+  margin-right: 13.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-4na1-yHy .links-8As {
+  margin-bottom: 4.2rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-4na1-yHy .terms-of-use-euu {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-zje9-Nb1 {
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-zje9-Nb1 .social-media-Xio {
+  margin-bottom: 4.2rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-zje9-Nb1 .auto-group-gexu-GgP {
+  margin-right: 0.4rem;
+  width: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-zje9-Nb1 .auto-group-gexu-GgP .instagram-18B {
+  margin: 0rem 0.8rem 0.1rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-zje9-Nb1 .auto-group-gexu-GgP .instagram-KuZ {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6700000167);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq {
+  margin: 0rem 5.5rem 14.4rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .create-collect-and-comment-on-krums-MDy {
+  margin-right: 16.7rem;
+  max-width: 29.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .auto-group-mv3f-3sV {
+  margin: 0.4rem 17.8rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .auto-group-mv3f-3sV .security-Num {
+  margin-bottom: 2.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6700000167);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .auto-group-mv3f-3sV .careers-WWB {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6700000167);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .privacy-policy-esH {
+  margin: 0.4rem 12.4rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .linkedin-xd5 {
+  margin: 0.7rem 0.8rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .linkedin-HQT {
+  margin-top: 0.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6700000167);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .krumble-all-right-reserved-QV5 {
+  margin-right: 3.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+@media(width<=450px){
+  
+html {
+	font-size:8px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.desktop-1-JWj {
+  box-sizing: border-box;
+  padding: 10px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0c0b0b;
+}
+.desktop-1-JWj .auto-group-3btj-z2B {
+  margin: 0rem 0.2rem 5.2rem 2rem;
+  width: calc(100% - 0rem);
+  height: 11rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-3btj-z2B .auto-group-7q2v-R11 {
+  margin-right: 17.5rem;
+  width: 10.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB {
+  margin: 0rem 0rem 5.1rem 3rem;
+  width: calc(100% - 0rem);
+  height: 46.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .purplecrumicon-1-cv3 {
+  margin-right: 2rem;
+  width: 20.7rem;
+  height: 20.7rem;
+  float: right;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 {
+  margin: 3.9rem 0rem 3rem 0rem;
+  width: 58.8rem;
+  height: calc(100% - 6.9rem);
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym {
+  margin: 0rem 0rem 0rem 0.3rem;
+  width: 38.5rem;
+  height: 12.2rem;
+  position: relative;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym .krumble-xMd {
+  width: 27.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0;  
+  top: 0;
+  font-size: 4.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #7c1e9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym .krumble-xMd .krumble-xMd-sub-1 {
+  font-size: 3.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-7sgv-2ym .introducing-krumble-jWo {
+  width: 38.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.8rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .an-augmented-reality-based-social-media-application-where-users-can-express-themselves-through-interacting-with-krumslets-dropthe-krums-ETZ {
+  margin-bottom: 3.2rem;
+  max-width: 25.8rem;
+  font-size: 2.0rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-JWj .auto-group-sw5x-8EB .auto-group-wadb-vA3 .auto-group-ujvv-3vo {
+  margin: 0rem 40.5rem 0rem 0.3rem;
+  box-sizing: border-box;
+  padding: 0.7rem 2.2rem 0.6rem 2.9rem;
+  width: calc(100% - 40.8rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(244, 228, 228, 0.8000000119);
+  border-radius: 2.4rem;
+}
+.desktop-1-JWj .video{
+  width: 350px;
+}
+.desktop-1-JWj .krumble-is-a-upcoming-social-mobile-application-that-allows-users-to-create-collect-and-comment-on-krums-digital-images-with-personalized-messages-superimposed-onto-the-real-world-new-culture-yrP{
+  align-items: center;
+  margin: 0;
+  margin-bottom: 80px;
+  padding: 0;
+}
+
+/* footer */
+.desktop-1-JWj .auto-group-ej6r-VCT {
+  margin: 0rem 2rem 0rem 0rem;
+  max-width: 400px;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 {
+  margin: 0rem 8.2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding-top: 1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .logo-for-krumble-2-1-voZ {
+  width: 11.7rem;
+  height: 8.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .krumble-G6j {
+  margin-bottom: 1.6rem;
+  font-size: 2.6rem;
+  font-weight: 800;
+  line-height: 1.5;
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .krumble-G6j .krumble-G6j-sub-0 {
+  font-size: 3.0rem;
+  
+}
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-1ivq-R67 .krumble-G6j .krumble-G6j-sub-1 {
+  font-size: 2.6rem;
+}
+
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-ar1t-mxb {
+  margin-right: 10.6rem;
+  display: none;
+}
+
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-4na1-yHy {
+  margin-right: 2.1rem;
+  display: none;
+}
+
+.desktop-1-JWj .auto-group-ej6r-VCT .auto-group-zje9-Nb1 .social-media-Xio {
+  margin-bottom: 2.0rem;
+  font-size: 2.2rem;
+}
+
+.desktop-1-JWj .auto-group-jrmp-pjq {
+  margin: 0rem 10rem 7rem 10.5rem;
+  margin-left: 20px;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .create-collect-and-comment-on-krums-MDy {
+  margin-right: 2rem;
+  max-width: 20.7rem;
+  font-size: 2rem;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .auto-group-mv3f-3sV {
+  display: none;
+}
+.desktop-1-JWj .auto-group-jrmp-pjq .privacy-policy-esH {
+  display: none;
+}
+
+.desktop-1-JWj .auto-group-jrmp-pjq .linkedin-xd5 {
+  margin: 0.7rem 0.8rem 0rem 7.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+} 
+.desktop-1-JWj .krumble-all-right-reserved-QV5 {
+  margin-right: 0rem;
+  font-size: 2rem;
+  align-items: center;
+}
+}
+@media(width<=380px){
+  
+  html {
+    font-size:7px;
+  }
+  
+}
