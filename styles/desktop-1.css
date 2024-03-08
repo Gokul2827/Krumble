@@ -448,6 +448,7 @@ body {
   
 html {
 	font-size:8px;
+  background-color: #0c0b0b;
 }
 * {
 	margin: 0;
@@ -653,16 +654,30 @@ footer
   align-items: center;
 } 
 } 
-@media(width<=380px){
+@media(width<=400px){
   html {
     font-size:7px;
     background-color: #0c0b0b;
   }
   .desktop-1-JWj .auto-group-jrmp-pjq .linkedin-xd5 {
-    margin: 0.7rem 0.8rem 0rem 6rem;
+    margin: 0.7rem 0.8rem 0rem 7.5rem;
     width: 2.4rem;
     height: 2.4rem;
   }
+}
+@media(width<=375px){
+  html {
+    font-size:6.5px;
+    background-color: #0c0b0b;
+  }
+  .desktop-1-JWj .video{
+    width: 300px;
+  } 
+.desktop-1-JWj .auto-group-jrmp-pjq .linkedin-xd5 {
+  margin: 0.7rem 0.8rem 0rem 6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+}
 }
 @media(width<=325px){
   html {
@@ -678,6 +693,7 @@ footer
   height: 2.4rem;
 }
 }
+
  /* @media(width<=1024px){
   html {
     font-size:7px;
